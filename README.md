@@ -2,7 +2,7 @@
 
 A Streamlit app that analyses the sentiment of a text.
 
-**LINK TO APP: [analyse-sentiment.streamlit.app](analyse-sentiment.streamlit.app)**
+**LINK TO APP: [analyse-sentiment.streamlit.app](https://analyse-sentiment.streamlit.app)**
 
 ## Description
 
